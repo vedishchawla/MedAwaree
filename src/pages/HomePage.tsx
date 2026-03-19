@@ -53,7 +53,7 @@ const HomePage = () => {
               </div>
               <h1 className="text-5xl lg:text-6xl font-bold leading-tight">
                 <span className="text-foreground">Welcome to </span>
-                <span 
+                <span
                   className="inline-block text-primary"
                   style={{
                     background: 'linear-gradient(135deg, hsl(150 65% 55%), hsl(200 70% 60%))',
@@ -143,7 +143,7 @@ const HomePage = () => {
             </div>
             <span className="font-bold text-xl text-foreground">MedAware</span>
           </div>
-          <p className="text-muted-foreground">© 2024 MedAware. Your health, our priority.</p>
+          <p className="text-muted-foreground">© 2025 MedAware. Your health, our priority.</p>
         </div>
       </footer>
     </div>
